@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: Mi primer post
+published: true
 ---
+**Estimado lector**, bienvenido:
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Estoy a punto de comenzar una aventura "escritora", en la vida había escrito algo con ganas que no fuera de la escuela y, para serte sincero, mientras escribo esto... se siente fantástico.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+He intentado definir los temas sobre los que me gustaría hablar, me resultó imposible; me gustan las **mates**, **leer**, **programar**, etc. Entonces, supongo que podremos decir que el tema general es: _misceláneo_.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Me encantaría que me acompañaras en mi (y si quieres, tu) aventura.
+
+No quiero extenderme más, simplemente **¡disfruta lo que se viene!**
