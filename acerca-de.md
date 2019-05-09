@@ -4,12 +4,12 @@ title: Acerca de
 permalink: /acerca-de/
 ---
 
-Some information about you!
+Soy el creador de mundos (uno de los muchos que hay), que gusto que te pases por aquí.
 
-### More Information
+Te cuento, soy un ser de la especie humana, eso creo, me encanta aprender, me fascinan las matemáticas y la programación. Soy un novato...
 
-A place to include any other types of information that you'd like to include about yourself.
+Le estoy tomando gusto a la escritura, espero que disfrutes leer lo que escribo.
 
-### Contact me
+### Puedes contactarme en:
 
-[email@domain.com](mailto:email@domain.com)
+[No disponible aún](mailto:example@example.com)
