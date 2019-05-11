@@ -3,7 +3,7 @@ layout: post
 title: 0.- Un creador de mundos
 published: true
 ---
-— ¿Hay alguien aquí? — preguntó un chico cualquiera mientras tocaba la puerta de una cabaña en medio del boque.
+—¿Hay alguien aquí? —preguntó un chico cualquiera mientras tocaba la puerta de una cabaña en medio del boque.
 
 Silencio.
 
@@ -18,12 +18,12 @@ El chico, cuyo nombre era Jorge, se acercó a aquel ruido. Se sorprendió al ver
 
 Jorge se acercó y le tocó el hombro al chico que tecleaba. El chico con la "H" en la espalda dejó de teclear y miró a los ojos a Jorge como si ya supiera que iba a ir.
 
-— ¿Qué haces? — Preguntó Jorge al desconocido _tecleador_
+—¿Qué haces? —preguntó Jorge al desconocido _tecleador_.
 
-— Nada, sólo estoy creando nuevos mundos sobre los cuales tengo el total control. Como este en el que estamos viviendo, en el cual ahora mismo nos encontramos charlando tu y yo, Jorge y Hector — respondió el chico desconocido.
+—Nada, sólo estoy creando nuevos mundos sobre los cuales tengo el total control. Como este en el que estamos viviendo, en el cual ahora mismo nos encontramos charlando tu y yo, Jorge y Hector —respondió el chico desconocido.
 
-— ¿A qué te refieres con _crear_ nuevos mundos?
+—¿A qué te refieres con _crear_ nuevos mundos?
 
-— ¡Oh!, no es nada, estoy iniciandome en esto de escribir historias — Dijo Hector — las publico por el momento en: [hectorfranc.github.io](https://hectorfranc.github.io) — terminó de añadir.
+—¡Oh!, no es nada, estoy iniciandome en esto de escribir historias —dijo Hector— las publico por el momento en: [hectorfranc.github.io](https://hectorfranc.github.io) —terminó de añadir.
 
-— ¡Que interesante!, muestrame alguna porfavor — rogó Jorge...
+—¡Que interesante!, muestrame alguna porfavor —rogó Jorge...
