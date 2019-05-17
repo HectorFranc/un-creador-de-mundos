@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 1.- Un viaje que lo cambió todo
-published: false
+published: true
 ---
 Hector accedió a mostrarle a Jorge los mundos que hasta ese momento había creado.
 
@@ -27,7 +27,7 @@ Julio, el hijo mayor de la familia, tenía una vida, dentro de lo que cabe, norm
 
 Julió se presentó ante su mamá. No sabía la razón pero presentía que lo que venía a continuación cambiaría su vida.
 
-—Julio, me dieron un muy buen trabajo en otra ciudad un poco lejana. ¿Qué te parece ir a vivir para allá? —preguntó la madre—. Tendrías que cuidar de tu hermano al regresar de la escuela pues tu padre no irá con nosotros ya que su empresa no tiene una planta allá.
+—Julio, me dieron un muy buen trabajo en otra ciudad un poco lejana. ¿Qué te parece ir a vivir para allá? —preguntó la madre—. Tendrías que cuidar de tu hermano al regresar de la escuela.
 
 Julio lo pensó profundamente. Llevaba poco tiempo en su actual primaria, iba en quinto de primaria, y no había formado aún grandes amistades, lo que significaba que no le importaba mucho por la escuela. Su familia se quedaría en su ciudad, pero existía la bendita tecnología y podría llamarlos, por ese lado no había problema entonces. 
 
@@ -37,4 +37,4 @@ Por su mente pasaron infinidad de pensamientos sobre lo que podría pasar si ace
 
 —Que gusto que aceptaras, haz tus maletas, al terminar las vacaciones de verano nos vamos de esta ciudad.
 
-Pasaron las vacaciones de verano, Julio hizo sus maletas. Llegado el día pidieron un taxi a través de su aplicación y fueron a la central de autobuses. Había un montón de ellos. Julio vió a lo lejos el suyo, en el letrero decía: «Sjdll». Apenas empezaba el inicio de aquella historia.
+Pasaron las vacaciones de verano, Julio hizo sus maletas. Llegado el día pidieron un taxi a través de su aplicación y fueron a la central de autobuses. Había un montón de ellos. Julio vió a lo lejos el suyo, en el letrero decía: «Sjdll». Apenas empezaba el inicio de aquella historia...
