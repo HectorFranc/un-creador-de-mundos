@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2.- Un secreto almacén de mundos
-published: false
+published: true
 ---
 Un día todo empezó, Julio habia descubirto una biblioteca secreta. Un almacen de mundos, se podría decir.
 
@@ -20,6 +20,6 @@ Al salir del aula se encontró con una llave tirada en el piso, era de color ama
 > Ve atrás de la biblioteca, donde está una "mesa", busca en el piso una cerradura en inserta la llave. Espero disfrutes de la experiencia.
 > Atte. Tu fan secreto.
 
-A Julio le pareció muy curioso, no pudo resistir y fue al luagr indicado. Era una de las partes más adentradas en su escuela, el piso era de tierra, había algo que intentaba simular una mesa (era usada por los niños durante el recreo para sentarse a desayunar), la, digamos, mesa, estaba cubierta por la sobra que le proporcionaba un árbol de mediana altura.
+A Julio le pareció muy curioso, no pudo resistir y fue al lugar indicado. Era una de las partes más adentradas en su escuela, el piso era de tierra, había algo que intentaba simular una mesa (era usada por los niños durante el recreo para sentarse a desayunar), la, digamos, mesa, estaba cubierta por la sombra que le proporcionaba un árbol de mediana altura.
 
 Julio se acercó. Vió en el piso una cerradura verde moco, seguro esa era, se encontraba a un paso de la mesa. Metió la llave y giró. La mesa se levanto y dejó ver un agujero en el suelo. Tenía un diámetro de unos 70cm, estaba oscuro y tenebroso. Julio se armo de valentía y se metió en él...
