@@ -27,7 +27,7 @@ Julio, el hijo mayor de la familia, tenía una vida, dentro de lo que cabe, norm
 
 Julió se presentó ante su mamá. No sabía la razón pero presentía que lo que venía a continuación cambiaría su vida.
 
-—Julio, me dieron un muy buen trabajo en otra ciudad un poco lejana. ¿Qué te parece ir a vivir para allá? —preguntó la madre—. Tendrías que cuidar de tu hermano al regresar de la escuela.
+—Julio, me dieron un muy buen trabajo en un pueblo un poco lejano. Dicen que es mágico, o algo así. ¿Qué te parece ir a vivir para allá? —preguntó la madre—. Tendrías más tiempo libre al salir de la escuela pues la vida allá es más relajada, nunca más estarías dos horas en un autobús bajo el acalorante sol sin poder tomar un confortable asiento mientras percibes un olor como a _muerto_.
 
 Julio lo pensó profundamente. Llevaba poco tiempo en su actual primaria, iba en quinto de primaria, y no había formado aún grandes amistades, lo que significaba que no le importaba mucho por la escuela. Su familia se quedaría en su ciudad, pero existía la bendita tecnología y podría llamarlos, por ese lado no había problema entonces. 
 
