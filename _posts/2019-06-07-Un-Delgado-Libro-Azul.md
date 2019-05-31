@@ -1,7 +1,4 @@
 ---
-published: false
----
----
 layout: post
 title: 4.- Un delgado libro azul
 published: false
