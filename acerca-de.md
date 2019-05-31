@@ -8,8 +8,6 @@ Soy el creador de mundos (uno de los muchos que hay), que gusto que te pases por
 
 Te cuento, soy un ser de la especie humana, eso creo, me encanta aprender, me fascinan las matemáticas y la programación. Soy un novato...
 
-Le estoy tomando gusto a la escritura, espero que disfrutes leer lo que escribo.
-
 ### Puedes contactarme en:
 
 [No disponible aún](mailto:example@example.com)
