@@ -1,13 +1,13 @@
 ---
 layout: post
 title: 3.- La magnitud de la bestia
-published: false
+published: true
 ---
 Julio caía por algo parecido a un _tubo_ a una velocidad comparable con la que los humanos pasan su vida sin prestarle ateción a su sentido hasta que un día, mueren.
 
 Llegó al final del _tubo_ y calló al piso. Se levantó. Se sacudió. Se subió el cierre.
 
-Había caido a una pequeña sala oscura, olía como a frijoles quemados, hacía mucho viento. Julio se preguntaba de donde venía ese viento si estaban a una buena distancia bajo tierra.
+Había caído a una pequeña sala oscura, olía como a frijoles quemados, hacía mucho viento. Julio se preguntaba de donde venía ese viento si estaban a una buena distancia bajo tierra.
 
 En una pared de la sala había un agujero circular de tamaño considerable que parecía dar a otra sala más grande que en la que estaba Julio.
 
@@ -33,6 +33,6 @@ En el centro de la habitación había un pequeño mueble sobre el que se encontr
 
 Ponía:
 
-> Hola Julio. Un gusto que aceptaras venir. Iré en un momento más, mientras puedes ver y leer todos los libros que quieras.
+> Hola Julio. Un gusto que aceptaras venir. Iré en un momento más, mientras, puedes ver y leer todos los libros que quieras.
 
 Julio se quedó parado ahí sumamente aterrorizado, pero emocionado al mismo tiempo.
