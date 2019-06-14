@@ -26,4 +26,4 @@ Entraron.
 
 Julio se encontraba _volando_. Al entrar a la habitación no encontró el piso y cayó. No duró mucho cayendo porque enseguida se quedó flotando sostenido por alguna misteriosa fuerza. A Miguel le pasó lo mismo.
 
-Parecía una simulación de estar en el espacio exterior.
+Parecía una simulación de estar en el espacio exterior. Era extremadamente realista que parecía que en realidad estaban en el espacio exterior... o tal vez lo estaban.
