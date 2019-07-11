@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 7.- Percepción Universal
 layout: post
 ---
